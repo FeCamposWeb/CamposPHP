@@ -10,7 +10,7 @@
         echo "Adolescente";
     }else{
         echo "Adulto";
-
+    }
     $nota =5;
     if($nota<=2){
         echo 'muito fraca';
